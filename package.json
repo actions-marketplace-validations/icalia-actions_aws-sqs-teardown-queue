@@ -34,7 +34,7 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.6.0",
-    "aws-sdk": "^2.1100.0"
+    "aws-sdk": "^2.1376.0"
   },
   "devDependencies": {
     "@types/node": "^16.10.5",
